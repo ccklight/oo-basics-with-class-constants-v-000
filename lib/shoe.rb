@@ -7,7 +7,7 @@ class Shoe
     
   end
 BRANDS = []
-@BRAND= brand
+@BRANDS
 
 
  def cobble
